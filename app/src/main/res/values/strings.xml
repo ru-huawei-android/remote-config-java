@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RemoteConfig Demo</string>
+    <string name="currenttheme">Current theme:</string>
+</resources>
